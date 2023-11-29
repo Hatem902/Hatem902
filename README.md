@@ -1,2 +1,2 @@
-#### [💼 My Portfolio](https://hatem-lamine-portfolio.vercel.app/) | [💡 My Start-up : Best in Role – Esports Voting Platform & Leaderboard](https://best-in-role-lol.vercel.app) | [🌐 My Recent Web Apps](https://www.youtube.com/watch?v=cootQ0SoJ0E&list=PLJ49vJop9dCb7H0oM_fc_BOuwrDlkKB_e&ab_channel=Tommyweb-dev)
-#### [👨‍💻 My Current Tech Stack](https://hatem-lamine-portfolio.vercel.app/skills) | [✏️ My Recent Designs](https://www.behance.net/gallery/184184057/Esports-Voting-Platform-Leaderboard)
+#### [💼 Portfolio](https://hatem-lamine-portfolio.vercel.app/) | [🎬 Projects playlist](https://www.youtube.com/watch?v=cootQ0SoJ0E&list=PLJ49vJop9dCb7H0oM_fc_BOuwrDlkKB_e&ab_channel=Tommyweb-dev)
+#### [👨‍💻 Tech Stack](https://hatem-lamine-portfolio.vercel.app/skills) | [✏️ Designs](https://www.behance.net/gallery/184184057/Esports-Voting-Platform-Leaderboard)
